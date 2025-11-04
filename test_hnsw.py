@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-# from starter_code_HNSW import evaluate_hnsw
+from starter_code_HNSW import evaluate_hnsw
 
 def test_evaluate_hnsw():
     
